@@ -1,0 +1,6 @@
+[submodule "CppDesignPattern"]
+	path = CppDesignPattern
+	url = git@github.com:130926C/CppDesignPattern.git
+[submodule "ObsidianBackUp"]
+	path = ObsidianBackUp
+	url = git@github.com:130926C/ObsidianBackUp.git
