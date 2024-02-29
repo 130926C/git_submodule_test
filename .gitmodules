@@ -4,3 +4,7 @@
 [submodule "ObsidianBackUp"]
 	path = ObsidianBackUp
 	url = git@github.com:130926C/ObsidianBackUp.git
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = git@github.com:open-source-parsers/jsoncpp.git
+	branch = update
